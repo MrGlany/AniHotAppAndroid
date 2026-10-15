@@ -127,6 +127,24 @@
 
 ---
 
+## ⭐ История звёзд
+
+<div align="center">
+
+<a href="https://www.star-history.com/?repos=MrGlany%2FAniHotAppAndroid&type=date&legend=bottom-right">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=MrGlany/AniHotAppAndroid&type=date&legend=bottom-right&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=MrGlany/AniHotAppAndroid&type=date&legend=bottom-right" />
+    <img alt="История звёзд AniHotAppAndroid" src="https://api.star-history.com/chart?repos=MrGlany/AniHotAppAndroid&type=date&legend=bottom-right" width="800" />
+  </picture>
+</a>
+
+<sub>Нажми на график, чтобы открыть интерактивную статистику.</sub>
+
+</div>
+
+---
+
 <div align="center">
 
 **Смотри. Сохраняй. Делись впечатлениями.**
