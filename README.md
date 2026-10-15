@@ -8,7 +8,7 @@
 
 [![Android](https://img.shields.io/badge/Android-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/MrGlany/AniHotAppAndroid/releases/latest)
 [![Latest release](https://img.shields.io/github/v/release/MrGlany/AniHotAppAndroid?style=for-the-badge&label=Release&color=7C3AED)](https://github.com/MrGlany/AniHotAppAndroid/releases/latest)
-[![License](https://img.shields.io/badge/License-Proprietary-201D30?style=for-the-badge)](LICENSE_RU.md)
+[![Все права защищены](https://img.shields.io/badge/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F-%D0%92%D1%81%D0%B5%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0%20%D0%B7%D0%B0%D1%89%D0%B8%D1%89%D0%B5%D0%BD%D1%8B-201D30?style=for-the-badge)](LICENSE_RU.md)
 
 <br>
 
@@ -37,7 +37,7 @@
 
 ### Плеер, которому уделили внимание
 
-- **DirectMPV на базе libmpv** — нативное воспроизведение видео внутри Flutter-интерфейса.
+- **DirectMPV** — встроенный плеер для просмотра аниме.
 - Выбор озвучки и серии, управление воспроизведением и сохранение прогресса.
 - **Anime4K** — дополнительная обработка изображения для поддерживаемых устройств.
 - Мини-плеер и режим «картинка в картинке» там, где это поддерживается устройством.
@@ -86,7 +86,7 @@
 
 <br>
 
-Создавай комнаты совместного просмотра, выбирай тайтл и смотри его с другими участниками. В проекте реализованы синхронизация через Centrifugo и голосовая связь через LiveKit. Также доступны личные сообщения и социальные функции профиля.
+Создавай комнаты совместного просмотра, выбирай тайтл и смотри его с другими участниками. Общайся в текстовом чате или голосом, находи друзей и обменивайся сообщениями.
 
 </details>
 
